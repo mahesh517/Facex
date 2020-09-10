@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947613522747",
+    "firebase_url": "https://facexterminal.firebaseio.com",
+    "project_id": "facexterminal",
+    "storage_bucket": "facexterminal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947613522747:android:0f5334da9cf864ec5ff51e",
+        "android_client_info": {
+          "package_name": "com.app.facexterminalsdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947613522747-4po6b2t3skt4ob3seu1fii3op4br5cei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.facexterminalsdk",
+            "certificate_hash": "6aa9c0058a13d67ba97dbbd597579a15537b7859"
+          }
+        },
+        {
+          "client_id": "947613522747-4jjn8129ptf4u8lcsbnbfib0ir8rcb8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVSDpnoJdtoXs6T1Td4ttM2Usq5d_z0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947613522747-4jjn8129ptf4u8lcsbnbfib0ir8rcb8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
