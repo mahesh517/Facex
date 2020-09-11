@@ -28,4 +28,3 @@
 #-keep public class com.app.Utils.FaceRecongintion
 #-keep public class com.app.Utils.FileUtils
 #-keep public interface com.app.Utils.onFaceRecognition
--dontobfuscate
